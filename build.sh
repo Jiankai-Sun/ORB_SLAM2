@@ -27,7 +27,7 @@ echo "Configuring and building ORB_SLAM2 ..."
 
 mkdir build
 cd build
-cmake .. -DCMAKE_BUILD_TYPE=Release
+cmake .. -DCMAKE_BUILD_TYPE=Release -DUSE_MAP_SAVE_LOAD=1
 make
 
 cd ..
