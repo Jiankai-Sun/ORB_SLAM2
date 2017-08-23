@@ -1,0 +1,3 @@
+[submodule "Primitive_ORB_SLAM2"]
+	path = Primitive_ORB_SLAM2
+	url = https://github.com/raulmur/ORB_SLAM2.git
