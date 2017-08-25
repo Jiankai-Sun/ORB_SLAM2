@@ -11,7 +11,7 @@
 
 - [raulmur/ORB_SLAM2 - Issues #246](https://github.com/raulmur/ORB_SLAM2/issues/246)
 
-- [poine/ORB_SLAM2 - http://recherche.enac.fr/~drouin/slam/orbslam2/](http://recherche.enac.fr/~drouin/slam/orbslam2/poine_orbslam2_04_07_16.tgz)
+- [poine/ORB_SLAM2 - http://recherche.enac.fr/~drouin/slam/orbslam2/](http://recherche.enac.fr/~drouin/slam/orbslam2/poine_orbslam2_04_07_16.tgz), which includes Python Interface.
 
 - [MathewDenny/ORB_SLAM2](https://github.com/MathewDenny/ORB_SLAM2)
 
