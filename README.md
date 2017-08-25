@@ -9,11 +9,9 @@
 
 - [raulmur/ORB_SLAM2 - Issue #19](https://github.com/raulmur/ORB_SLAM2/issues/19)
 
-- [poine/ORB_SLAM2](https://github.com/poine/ORB_SLAM2)
-
-- [shomin/ORB_SLAM2](https://github.com/shomin/ORB_SLAM2)
-
 - [raulmur/ORB_SLAM2 - Issues #246](https://github.com/raulmur/ORB_SLAM2/issues/246)
+
+- [poine/ORB_SLAM2 - http://recherche.enac.fr/~drouin/slam/orbslam2/](http://recherche.enac.fr/~drouin/slam/orbslam2/poine_orbslam2_04_07_16.tgz)
 
 - [MathewDenny/ORB_SLAM2](https://github.com/MathewDenny/ORB_SLAM2)
 
