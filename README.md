@@ -1,4 +1,4 @@
-# ORB-SLAM2-Enhanced
+# ORB-SLAM2 (2018)
 
 ## Updating ...
 **Reference**: 
