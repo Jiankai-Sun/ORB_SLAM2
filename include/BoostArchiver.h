@@ -45,15 +45,15 @@ namespace boost{
 
     /* serialization for CV KeyPoint */
     template<class Archive>
-    void serialize(Archive &ar, ::cv::KeyPoint &kf, const unsigned int file_version)
+    void serialize(Archive &ar, ::cv::KeyPoint &kp, const unsigned int file_version)
     {
-        ar & kf.angle;
-        ar & kf.class_id;
-        ar & kf.octave;
-        ar & kf.response;
-        ar & kf.response;
-        ar & kf.pt.x;
-        ar & kf.pt.y;
+        ar & kp.angle;
+        ar & kp.class_id;
+        ar & kp.octave;
+        ar & kp.response;
+        ar & kp.size;
+        ar & kp.pt.x;
+        ar & kp.pt.y;
     }
     /* serialization for CV Mat */
     template<class Archive>
